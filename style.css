@@ -29,12 +29,12 @@ body {
 
 .PORT img {
  border-radius: 50%;
- width: 10rem;
+ width: 7rem;
 }
 
 .PORT1 {
  display: flex;
- justify-content: space-between;
+ justify-content: space-evenly;
 
 }
 
@@ -61,7 +61,7 @@ body {
 
 .PORT2 {
  display: flex;
- justify-content: space-between;
+ justify-content: space-evenly;
 }
 
 .vintage {
@@ -78,22 +78,22 @@ body {
 
 .tribe{
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
 }
 
 .tribe2{
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
 }
 
 .tribe3{
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
 }
 
 .tribe4{
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
 }
 .chiffon{
   display: flex;
