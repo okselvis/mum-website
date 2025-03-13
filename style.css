@@ -76,6 +76,67 @@ body {
  align-items: center;
 }
 
+.tribe{
+  display: flex;
+  justify-content: space-between;
+}
+
+.tribe2{
+  display: flex;
+  justify-content: space-between;
+}
+
+.tribe3{
+  display: flex;
+  justify-content: space-between;
+}
+
+.tribe4{
+  display: flex;
+  justify-content: space-between;
+}
+.chiffon{
+  display: flex;
+ flex-direction: column;
+ align-items: center;
+}
+
+.cordlace{
+  display: flex;
+ flex-direction: column;
+ align-items: center;
+}
+
+.wax{
+  display: flex;
+ flex-direction: column;
+ align-items: center;
+}
+
+.ribbon{
+  display: flex;
+ flex-direction: column;
+ align-items: center;
+}
+
+.velvet{
+  display: flex;
+ flex-direction: column;
+ align-items: center;
+}
+
+.polyester{
+  display: flex;
+ flex-direction: column;
+ align-items: center;
+}
+
+.crepe{
+  display: flex;
+ flex-direction: column;
+ align-items: center;
+}
+
 .bp {
  text-align: center;
 }
@@ -124,6 +185,18 @@ body {
  .PORT2{
   justify-content: space-around;
   padding: 2rem;
+ }
+ .tribe{
+  justify-content: space-around;
+ }
+ .tribe2{
+  justify-content: space-around;
+ }
+ .tribe3{
+  justify-content: space-around;
+ }
+ .tribe4{
+  justify-content: space-around;
  }
 .zam{
  display: flex;
